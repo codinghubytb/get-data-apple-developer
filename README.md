@@ -1,4 +1,4 @@
-# Get Data of a Apple Store App
+# Get data of an iOS application from the App Store
 
 This project allows you to get data of an iOS application from the Apple Store using Python.
 

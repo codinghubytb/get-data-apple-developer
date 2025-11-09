@@ -1,6 +1,6 @@
-# Retrieve the Number of Downloads of a Apple Store App
+# Get Data of a Apple Store App
 
-This project allows you to retrieve the number of downloads of an iOS application from the Apple Store using Python.
+This project allows you to get data of an iOS application from the Apple Store using Python.
 
 ## 📦 Installation
 
